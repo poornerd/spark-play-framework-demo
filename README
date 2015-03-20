@@ -1,4 +1,6 @@
-This is your new Play application
-=================================
+Demo Code for receiving data from a Spark Core Arduino
+======================================================
 
-This file will be packaged with your application, when using `activator dist`.
+For more information visit: http://www.poornerd.com/2015/03/20/how-to-post-data-to-play-framework-from-an-iot-spark-core-arduino/
+
+The Spark Core Arduino code is in the /spark-core subdirectory.  (NOTE: change the IP Address of the Play Framework Server you want to connect to).
